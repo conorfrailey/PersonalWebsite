@@ -1,0 +1,21 @@
+  body {
+    background-color: #ffffff;
+    color:  #272343;
+    font: 1.2em "Fira Sans", sans-serif;
+  }
+  hr {
+    border-color: #bae8e8;
+    border-style: dotted none none none;
+    border-width: 5px;
+    width: 20%;
+    height: 0;
+    margin: auto;
+  }
+  h1 {
+    text-align: right;
+    color: #29a19c;
+  }
+  h2 {
+    text-align: center;
+    color: #29a19c;
+  }
