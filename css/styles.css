@@ -19,3 +19,11 @@
     text-align: center;
     color: #29a19c;
   }
+  td {
+    color: black;
+    font-size: 0.6em
+  }
+  li {
+    color: black;
+    font-size: 0.6em
+  }
